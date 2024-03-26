@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "artillery": "^2.0.8",
+    "artillery-engine-socketio-v3": "^1.2.0"
+  }
+}
